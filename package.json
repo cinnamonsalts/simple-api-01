@@ -1,0 +1,23 @@
+{
+	"name": "simple-api01",
+	"version": "1.0.0",
+	"description": "Simple hello world api example",
+	"author": "",
+	"main": "index.js",
+	"private": true,
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "^4.16.2"
+	},
+	"engines": {
+		"node": ">= 4.0.0",
+		"npm": ">= 3.0.0"
+	},
+	"browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not ie <= 8"
+	]
+}
